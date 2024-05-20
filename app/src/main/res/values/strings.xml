@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Online Voting</string>
+    <string name="vote_at_your_home">Vote at your home!</string>
+</resources>
